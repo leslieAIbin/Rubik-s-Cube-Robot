@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="res">
+    <file>res/bug.jpg</file>
+    <file>res/init_cube.jpg</file>
+    <file>res/draw_cube.jpg</file>
+    <file>res/load_camera.jpg</file>
+    <file>res/mask.jpg</file>
+  </qresource>
+</RCC>
